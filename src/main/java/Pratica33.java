@@ -1,4 +1,4 @@
-import utfpr.ct.dainf.if62c.exemplos.Matriz;
+import utfpr.ct.dainf.if62c.pratica.Matriz;
 
 /**
  * IF62C Fundamentos de Programação 2
